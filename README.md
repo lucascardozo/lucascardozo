@@ -1,13 +1,13 @@
-# Olá, me chamo Lucas Cardozo
-Bem vindo ao meu perfil GitHub 👋
+# Hello, my name is Lucas Cardozo
+Welcome to my GitHub profile 👋
 
-Sou um Desenvolvedor Freelancer e Analista de Sistemas.
+I am a Freelance Developer and Systems Analyst.
 
-### 🤓 Sobre mim
+### 🤓 About Me
 
-👋🏻 Sou formado em Ciência da computação pela Faculdade do Recife e Especialista em Design Web Apps with Tecnology Front-End pela Faculdade Unibratec ambas em Recife-PE, tenho mais de 10 anos de experiências na área de Tecnologia, infraestrutura e gerenciamento.
+👋🏻 I have a degree in Computer Science from Faculdade do Recife and a specialization in Web Design Apps with Front-End Technology from Faculdade Unibratec, both in Recife-PE. With over 10 years of experience in the fields of Technology, Infrastructure, and Management.
 
-Atualmente, estou aproveitando meu conjunto diversificado de habilidades como profissional de TI freelancer, contribuindo para o desenvolvimento de diversos projetos de sistemas usando diversas tecnologias, incluindo PHP, JavaScript, CSS, HTML, MySQL e muito mais.
+Currently, I am leveraging my diverse set of skills as a freelance IT professional, contributing to the development of various system projects using multiple technologies, including PHP, JavaScript, CSS, HTML, MySQL, and more.
 
 - 📱  [+55 81 98655-2822](tel:+5581986552822) - BR
 - 📱  [+1 236 968-3436](tel:+12369683436) - CA
@@ -16,12 +16,12 @@ Atualmente, estou aproveitando meu conjunto diversificado de habilidades como pr
 - 📄 [LinkedIn](https://www.linkedin.com/in/lucas-cardozo-b2494033/)
 
 
- ## 📚 Habilidades / Skills
+ ## 📚 Skills
  
 
-- **Linguagens e Frameworks**: HTML, CSS, JavaScript, PHP, Laravel, CodeIgniter, Shell Script;
-- **OS e Plataformas**: Linux, Docker, AZURE, AWS, Git, Github;
-- **DBMS**: MongoDB, MySQL, Postgres;
+- **Languages and Frameworks**: HTML, CSS, JavaScript, PHP, Laravel, CodeIgniter, Shell Script;
+- **Operating Systems and Platforms**: Linux, Docker, AZURE, AWS, Git, Github;
+- **Database Management Systems (DBMS)**: MongoDB, MySQL, Postgres;
 
 
 
