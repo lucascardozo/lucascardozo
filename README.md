@@ -1,7 +1,7 @@
 # Olá, me chamo Lucas Cardozo
 Bem vindo ao meu perfil GitHub 👋
 
-Um Desenvolvedor Freelancer e Analista de Sistemas.
+Sou um Desenvolvedor Freelancer e Analista de Sistemas.
 
 ### 🤓 Sobre mim
 
